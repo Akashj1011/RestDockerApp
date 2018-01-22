@@ -1,4 +1,4 @@
-package org.akash.restDocker.assignment1;
+package akash.restdockerapp;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
